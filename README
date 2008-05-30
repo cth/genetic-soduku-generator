@@ -1,5 +1,8 @@
 A small program for generating/solving Soduku's using a genetic algorithm written in Standard ML.
-I wrote it as part of AI course I took at ITU. See the code and the report for details.
+I wrote it as part of AI course I took at ITU.
+
+The code and some experiments done using the program is described in the wiki:
+http://github.com/cth/genetic-soduku-generator/wikis
  
 License:
 
